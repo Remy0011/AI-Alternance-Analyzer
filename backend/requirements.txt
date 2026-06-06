@@ -1,0 +1,6 @@
+fastapi #API REST
+uvicorn[standard] #serveur  HTTP
+python-multipart #upload fcihier PDF
+python-dotenv #lecture fichier .env
+openai #appel API OpenAI
+pypdf #extraction texte CV
